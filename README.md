@@ -1,5 +1,8 @@
-Problem Brief
-Grid Interview Problem
+# Grid Interview Problem
+## Result
+https://bromzh.github.io/grid-problem/
+
+## Problem Brief
 Create an app that renders a grid of 0s and 1s, and allows you to count the number of continuous blocks of 1s.
 In Depth
 1. Create a two-dimensional array (a grid) in Javascript of 1s and 0s, for example.
